@@ -1,14 +1,16 @@
 #!/bin/bash
 
-# Author Name: Francis Rudra D Cruze
-# Author Email: francisrudra@gmail.com
-# Social Media: https://www.linkedin.com/in/rudradcruze/
-# © All rights reserved by rudradcruze - 2023
+# GROUP_PROJECT
+# Project: Student Management System
+# Platform: Linux Shell Scripting
+# Year: 2026
 
 function head_banner() {
     clear
     banner SMS
-    echo "Developed by (linkedin.com/in/rudradcruze) or '@rudradcruze' [All rights reserved]"
+    echo "Smart Student Academic Management System"
+echo "LINUX PROGRAMMING PROJECT --> PROTOTYPE"
+echo "Linux Shell Scripting Project | 2026"
 }
 
 function return_function_value() {
